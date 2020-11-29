@@ -1,0 +1,54 @@
+h1 {
+	text-align: center;
+	font-size: 22px;
+}
+a {
+	font-style: italic;
+}
+h2 {
+	text-align: center;
+}
+th {
+	text-align: center;
+	background-color: green;
+	color: yellow;
+	font-weight: bold;
+	font-size: 100%;
+}
+table {
+	border: 1px solid yellow;
+}
+th, td {
+	border: 2px solid green;
+}
+tr td:nth-child(odd) {
+	background-color: gray;
+}
+.highlight {
+	text-align: right;
+}
+td {
+	text-align: center;
+	font-size: 90%;
+}
+* {
+	box-sizing: border-box;
+}
+/* Large devices */
+@media (min-width: 993px) {
+.col-lg-1 {
+	font-size: 130%;
+}
+}
+/* Medium devices */
+@media (min-width: 769px) and (max-width: 992px) {
+.col-md-1 {
+	font-size: 120%;
+}
+}
+/* Little devices */
+@media (max-width: 768px) {
+.col-lt-1 {
+	font-size: 110%;
+}
+}
