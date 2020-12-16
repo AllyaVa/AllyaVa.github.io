@@ -11,43 +11,64 @@ h1 {
 	width: 90%;
 	height: 150%;
 	margin-right: auto;
-	margin-left: 38px;
+	margin-left: auto;
+	margin-top: auto;
 	font-family: Comic Sans MS, Comic Sans, cursive;
 	color: black;
-	padding: 14px;
+	padding: 10px;
+	position: relative;
 }
 #inner1 {
 	border: 3px solid black;
-	width: 50%;
-	height: 50%;
-	padding: 10px;
+	width: 100px;
+	height: 40px;
+	padding: 5px;
+	margin-top: auto;
 	margin-bottom: auto;
 	font-family: Comic Sans MS, Comic Sans, cursive;
 	background-color: pink;
 	font-weight: bold;
 	float: right;
+	text-align: center;
+	position: absolute;
+	top: 0px;
+	right: 0px;
 }
 #inner2 {
 	border: 3px solid black;
-	width: 50%;
-	height: 50%;
-	padding: 10px;
+	width: 100px;
+	height: 40px;
+	padding: 5px;
+	margin-top: auto;
 	margin-bottom: auto;
 	font-family: Comic Sans MS, Comic Sans, cursive;
 	background-color: red;
 	font-weight: bold;
 	float: right;
+	text-align: center;
+	position: absolute;
+	top: 0px;
+	right: 0px;
+}
+article {
+	clear: right;
+	padding: 30px;
 }
 #inner3 {
 	border: 3px solid black;
-	width: 50%;
-	height: 50%;
-	padding: 10px;
+	width: 100px;
+	height: 40px;
+	padding: 5px;
+	margin-top: auto;
 	margin-bottom: auto;
 	font-family: Comic Sans MS, Comic Sans, cursive;
 	background-color: yellow;
 	font-weight: bold;
 	float: right;
+	text-align: center;
+	position: absolute;
+	top: 0px;
+	right: 0px;
 }
 .row {
 	width: 100%;
