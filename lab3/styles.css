@@ -8,11 +8,12 @@ h1 {
 #inner {
 	border: 3px solid black;
 	background-color: grey;
-	width: 90%;
-	height: 150%;
+	width: 95%;
+	height: 140%;
 	margin-right: auto;
 	margin-left: auto;
 	margin-top: auto;
+	margin-bottom: 10px;
 	font-family: Comic Sans MS, Comic Sans, cursive;
 	color: black;
 	padding: 10px;
