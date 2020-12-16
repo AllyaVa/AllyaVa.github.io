@@ -33,22 +33,6 @@ td {
 }
 * {
 	box-sizing: border-box;
-}
-/* Large devices */
-@media (min-width: 993px) {
-.col-lg-1 {
-	font-size: 130%;
-}
-}
-/* Medium devices */
-@media (min-width: 769px) and (max-width: 992px) {
-.col-md-1 {
-	font-size: 120%;
-}
-}
-/* Little devices */
-@media (max-width: 768px) {
-.col-lt-1 {
-	font-size: 110%;
-}
+	font-family: 'Indie Flower', cursive;
+    font-family: 'Righteous', cursive;
 }
