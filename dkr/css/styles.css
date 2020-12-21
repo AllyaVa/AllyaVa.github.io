@@ -1,0 +1,132 @@
+* {
+	box-sizing: border-box;
+}
+h1, h2 {
+	font-family: 'Jura', sans-serif;
+	text-align: center;
+}
+p {
+	color: white;
+    font-family: 'Indie Flower', cursive;
+    font-family: 'Josefin Sans', sans-serif;
+    font-family: 'Jura', sans-serif;
+    font-family: 'Shadows Into Light', cursive;
+}
+table {
+	border: 1px solid black;
+}
+th, td {
+	border: 1px solid black;
+	color: green;
+	font-family: 'Indie Flower', cursive;
+    font-family: 'Josefin Sans', sans-serif;
+    font-family: 'Jura', sans-serif;
+    font-family: 'Shadows Into Light', cursive;
+}
+li {
+	color: purple;
+	font-family: 'Indie Flower', cursive;
+    font-family: 'Josefin Sans', sans-serif;
+    font-family: 'Jura', sans-serif;
+    font-family: 'Shadows Into Light', cursive;
+}
+#block1 {
+	background-color: grey;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: auto;
+	margin-bottom: 10px;
+	color: black;
+	padding: 10px;
+	position: relative;
+}
+#block2 {
+	background-color: pink;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: auto;
+	margin-bottom: 10px;
+	color: black;
+	padding: 10px;
+	position: relative;
+}
+#block3 {
+	background-color: yellow;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: auto;
+	color: black;
+	padding: 10px;
+	position: relative;
+	margin-bottom: 18px;
+}
+#block4 {
+	background-color: orange;
+	margin-right: 10px;
+	margin-left: auto;
+	margin-top: auto;
+	margin-bottom: 10px;
+	color: black;
+	padding: 10px;
+	position: relative;
+}
+#header1 {
+	border: 3px solid grey;
+	background-color: white;
+	width: 80px;
+	height: 40px;
+	color: grey;
+	padding: 1px;
+	position: absolute;
+	bottom: 0px;
+	right: 0px;
+	float: right;
+	margin-bottom: 0px;
+    font-family: 'Josefin Sans', sans-serif;
+    font-family: 'Jura', sans-serif;
+}
+#header2 {
+	border: 3px solid pink;
+	background-color: purple;
+	width: 105px;
+	height: 40px;
+	color: pink;
+	padding: 1px;
+	position: absolute;
+	bottom: 0px;
+	right: 0px;
+	float: right;
+	margin-bottom: 0px;
+	font-family: 'Josefin Sans', sans-serif;
+    font-family: 'Jura', sans-serif;
+}
+#header3 {
+	border: 3px solid yellow;
+	background-color: green;
+	width: 115px;
+	height: 40px;
+	color: yellow;
+	padding: 1px;
+	position: absolute;
+	bottom: 0px;
+	right: 0px;
+	float: right;
+	margin-bottom: 0px;
+    font-family: 'Josefin Sans', sans-serif;
+    font-family: 'Jura', sans-serif;
+}
+#header4 {
+	border: 3px solid orange;
+	background-color: brown;
+	width: 170px;
+	height: 40px;
+	color: orange;
+	padding: 1px;
+	position: absolute;
+	bottom: 0px;
+	right: 0px;
+	float: right;
+	margin-bottom: 0px;
+    font-family: 'Josefin Sans', sans-serif;
+    font-family: 'Jura', sans-serif;
+}
